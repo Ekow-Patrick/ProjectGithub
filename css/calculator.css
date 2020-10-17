@@ -1,0 +1,31 @@
+#calcus_parent{
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 45px;
+	height: 50px;
+
+}
+.display{
+	background-color: gray;
+	color: white;
+	padding: 1px solid gray;
+	text-align: end;
+	padding-right: 20px;
+}
+.num{
+	background-color: lightgray;
+	text-align: center;
+	border-bottom: 1px solid black;
+	border-right:1px solid black;
+}
+.operator{
+	background-color: orange;
+	text-align: center;
+	border-bottom: 1px solid black;
+	border-right:1px solid black;
+
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+}
